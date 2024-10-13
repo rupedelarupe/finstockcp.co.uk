@@ -2,6 +2,11 @@
 
 # Changes
 
+## 13 October 2024
+- Added AGM date.
+- Updated copyright date.
+- Removed links to 2018 write-up on some pages.
+
 ## 04/11/2023
 - Added AGM date.
 
