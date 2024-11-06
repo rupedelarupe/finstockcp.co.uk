@@ -2,6 +2,9 @@
 
 # Changes
 
+## 06 November 2024
+- Removed AGM/added next meeting.
+
 ## 13 October 2024
 - Added AGM date.
 - Updated copyright date.
