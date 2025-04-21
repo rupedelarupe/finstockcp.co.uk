@@ -2,6 +2,9 @@
 
 # Changes
 
+## 21 April 2025
+- Update next meeting date.
+
 ## 06 November 2024
 - Removed AGM/added next meeting.
 
