@@ -2,6 +2,9 @@
 
 # Changes
 
+## 01 June 2025
+- Updated meetings.
+
 ## 02 May 2025
 - Updated next meeting date.
 
