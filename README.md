@@ -2,6 +2,9 @@
 
 # Changes
 
+## 04 November 2025
+- Added AGM.
+
 ## 01 June 2025
 - Updated meetings.
 
