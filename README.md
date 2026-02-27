@@ -2,6 +2,9 @@
 
 # Changes
 
+## 27 February 2026
+- Update meeting dates
+
 ## 24 February 2026
 - Added next meeting
 
